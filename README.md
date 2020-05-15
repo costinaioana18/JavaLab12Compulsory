@@ -4,4 +4,4 @@ I have completed the following compulsory tasks:<br>
 - The ControlPanel will allow the user to specify any class name of a Swing component (such as JButton, JLabel, JButton, JSpinner), a text for that component's name and a button for creating and adding an instance of the specified component to the DesignPanel.
 - The DesignPanel represents a simple JPanel, and containing Swing components added by our user.
 
-**See the functionality.mvk video or functionality2.jpg picture**
+**See the functionality.mkv video/ functionality2.jpg picture to see how the components are added to the design panel**
